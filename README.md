@@ -2,7 +2,7 @@
 Precision medicine represents a paradigm shift in healthcare, tailoring interventions to an individual’s unique genetic, environmental, and lifestyle profile. For individuals with Down syndrome, this approach has the potential to significantly enhance early recognition, personalized care, and quality of life. Advances in computer vision and artificial intelligence are providing innovative tools to hospitals, transforming diagnosis and support for such patients.
 
 ## Understanding Down Syndrome with Precision Medicine
-Down syndrome is a genetic disorder caused by the presence of an extra copy of chromosome 21, increasing the total number of chromosomes from the typical 46 to 47. This genetic condition manifests in a range of physical, cognitive, and developmental attributes. The global prevalence of Down syndrome is approximately 1 in 800 births, highlighting the importance of developing and improving accessible diagnostic methods.
+Down syndrome is a genetic disorder caused by the presence of an extra copy of chromosome 21, increasing the total number of chromosomes from the typical 46 to 47. This genetic condition manifests in a range of physical, cognitive, and developmental attributes. With a global prevalence of 1 per 1,000 births and results in about 17,000 deaths (https://en.wikipedia.org/wiki/Down_syndrome), improving diagnostic tools and healthcare methods is critical for ensuring early intervention and better long-term care.
 <center><img src ="https://upload.wikimedia.org/wikipedia/commons/0/03/Boy_with_Down_Syndrome.JPG" width = "500" height = '500'/>
 
 ## Case Study: Facial Recognition of Down Syndrome in Children Using Computer Vision
@@ -21,13 +21,10 @@ Link to Dataset: https://www.kaggle.com/datasets/mervecayli/detection-of-down-sy
 - Training Process: Images were preprocessed using normalization and augmentation techniques to enhance robustness. The dataset was divided into training (70%), validation (20%), and test sets (10%).
 - Performance Metrics: The model achieved a validation accuracy of 85%, with precision and recall scores of 86% and 72%, respectively.
 
-**Impact:**
-This technology improves early diagnosis, particularly in resource-limited settings, streamlining workflows for healthcare professionals and empowering caregivers.
+## How Does This Technology Make a Difference?**
 
-Integration with hospital systems and assistive technologies ensures personalized care, fostering inclusion and independence for individuals with Down syndrome. Aligning with UK Care Certificate standards, these advancements emphasize dignity, respect, and person-centered care, showcasing how technology and humanity can unite to improve lives.
+The implementation of this system in healthcare settings could significantly improve early diagnosis and care for individuals with Down syndrome. By integrating the system with hospital infrastructure and assistive technologies, healthcare professionals can provide more personalized, efficient, and inclusive care, promoting greater independence for patients. This approach aligns with person-centered care principles, ensuring dignity, respect, and support.
 
-**Findings**
-Our model has shown a very high accuracy in identifying the features of Down syndrome and thus can emerge as one important development to be employed by hospitals in early diagnosis and prioritization. The future work will involve integrating this system with hospital-based EHRs for real-time diagnostics, building larger datasets for better generalizability.
+## What Does the Future Hold for Down Syndrome Diagnosis?
 
-## A Positive Vision for the Future
-The combination of precision medicine and computer vision is set to transform health care. Timely identification of Down syndrome, tailored care, and assistance for health professionals will foster a more inclusive and efficient system. With adequate support and resources, individuals with Down syndrome can thrive and serve as a testament to a vision where technology unites humanity for the greater good.
+Looking ahead, this technology could revolutionize the way Down syndrome is diagnosed and treated. Future work includes integrating the system with Electronic Health Records (EHRs) for real-time diagnostics and expanding the dataset to enhance the model’s generalizability. The integration of precision medicine with AI promises to create a more inclusive and effective healthcare system, fostering improved care and support for individuals with Down syndrome.
